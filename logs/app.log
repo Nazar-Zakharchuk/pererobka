@@ -1,0 +1,38 @@
+черв. 14, 2025 5:20:32 ПП app.MainController initialize
+INFO: Зчитано прилади з бази даних
+черв. 15, 2025 2:17:56 ПП app.MainController initialize
+INFO: Зчитано прилади з бази даних
+черв. 15, 2025 3:24:40 ПП app.MainController initialize
+INFO: Зчитано прилади з бази даних
+черв. 15, 2025 6:55:51 ПП app.MainController initialize
+INFO: Зчитано прилади з бази даних
+черв. 15, 2025 7:07:39 ПП app.MainController initialize
+INFO: Зчитано прилади з бази даних
+черв. 15, 2025 7:08:43 ПП app.MainController initialize
+INFO: Зчитано прилади з бази даних
+черв. 15, 2025 7:13:29 ПП app.MainController initialize
+INFO: Зчитано прилади з бази даних
+черв. 15, 2025 7:14:33 ПП app.MainController initialize
+INFO: Зчитано прилади з бази даних
+черв. 15, 2025 7:31:58 ПП app.MainController initialize
+INFO: Зчитано прилади з бази даних
+черв. 15, 2025 7:34:14 ПП app.MainController initialize
+INFO: Зчитано прилади з бази даних
+черв. 15, 2025 7:38:22 ПП app.MainController initialize
+INFO: Зчитано прилади з бази даних
+черв. 15, 2025 7:38:27 ПП app.MainController handleUpdateAppliance
+WARNING: Некоректні дані для оновлення приладу
+черв. 15, 2025 7:38:49 ПП app.MainController handleCalculateTotalPower
+INFO: Розраховано загальну потужність: 5237.0 Вт
+черв. 15, 2025 7:40:22 ПП app.MainController handleAddAppliance
+INFO: Додано прилад: Мікрохвильовка (250.0W) x 1
+черв. 15, 2025 7:44:42 ПП app.MainController handleDeleteAppliance
+INFO: Видалено прилад: Зарядки (15.0W) x 5
+черв. 15, 2025 7:47:23 ПП app.MainController handleUpdateAppliance
+INFO: Оновлено прилад: Мікрохвильовка (230.0W) x 1
+черв. 15, 2025 7:53:15 ПП app.MainController handleCalculateTotalPower
+INFO: Розраховано загальну потужність: 5392.0 Вт
+черв. 15, 2025 8:06:58 ПП app.MainController initialize
+INFO: Зчитано прилади з бази даних
+черв. 15, 2025 8:07:11 ПП app.MainController handleUpdateAppliance
+WARNING: Спроба оновити прилад без вибору
